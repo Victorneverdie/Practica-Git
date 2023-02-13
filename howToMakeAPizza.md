@@ -1,4 +1,3 @@
-
 CÓMO HACER MASA DE PIZZA
 INGREDIENTES:
 
@@ -27,5 +26,4 @@ PREPARACIÓN DE LA MASA:
 8. Amásala con fuerza unos 5 minutos y comienza a estirarla poco a poco, buscando darle la clásica forma redonda de pizza, ó cuadrada, rectangular, dependiendo de tu bandeja.
 
 9. Parar lograr esto puedes valerte del famoso rodillo.
-
 
