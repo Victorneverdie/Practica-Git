@@ -3,12 +3,12 @@
 CÓMO HACER MASA DE PIZZA
 INGREDIENTES:
 
-<li>400 gramos de harina de trigo todo uso
-<li>1 cucharadita de levadura fresca (levadura de panadero)
-<li>200 ml de agua
-<li>Una pizca de sal
-<li>Una pizca de azúcar
-<li>2 cucharadas de aceite vegetal
+<li>400 gramos de harina de trigo todo uso</li>
+<li>1 cucharadita de levadura fresca (levadura de panadero)</li>
+<li>200 ml de agua</li>
+<li>Una pizca de sal</li>
+<li>Una pizca de azúcar</li>
+<li>2 cucharadas de aceite vegetal</li>
 PREPARACIÓN DE LA MASA:
 <li>En un envase plástico grande mezcla la levadura y el agua. Agrega las 2 cucharadas de aceite vegetal, revuelve un poco con los dedos y comienza a incorporar la harina de trigo poco a poco. Agrega también la pizca de sal y de azúcar.</li>
 
